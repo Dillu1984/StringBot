@@ -17,18 +17,18 @@ async def start(bot: Client, msg: Message):
 𝗜 𝗮𝗺 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗦𝘁𝗿𝗶𝗻𝗴 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 𝗯𝗼𝘁 𝗳𝗼𝗿 𝗣𝘆𝗿𝗼𝗴𝗿𝗮𝗺 & 𝗧𝗲𝗹𝗲𝘁𝗵𝗼𝗻.
 
 
-𝗠𝗔𝗗𝗘 𝗕𝗬: [𝗦𝗔𝗡𝗚𝗥𝗔𝗠](tg://user?id={OWNER_ID}) !""",
+𝗠𝗔𝗗𝗘 𝗕𝗬: [OG_PUNJABI](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="🌸 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗘 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 🌸", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("🌸 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌸", url="https://t.me/WorldChattingFriendsWCF"),
-                    InlineKeyboardButton("🌸 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 🌸", url="https://t.me/WCFnetwork")
+                    InlineKeyboardButton("🌸 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌸", url="https://t.me/ogsupportchat"),
+                    InlineKeyboardButton("🌸 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 🌸", url="https://t.me/ogmusicsupport")
                 ],
                 [
-                    InlineKeyboardButton("🌸 𝗢𝗪𝗡𝗘𝗥 🌸", url="https://t.me/Kalakar_Sangram")
+                    InlineKeyboardButton("🌸 𝗢𝗪𝗡𝗘𝗥 🌸", url="https://t.me/og_punjabi")
                 ],
             ]
         ),
